@@ -1,0 +1,6 @@
+E:\Invero\Freelancer\GoogleKeywordPlanner\GoogleKeywordPlanner\obj\x86\Release\GoogleKeywordPlanner.csprojResolveAssemblyReference.cache
+E:\Invero\Freelancer\GoogleKeywordPlanner\GoogleKeywordPlanner\bin\Release\GoogleKeywordPlanner.exe
+E:\Invero\Freelancer\GoogleKeywordPlanner\GoogleKeywordPlanner\bin\Release\GoogleKeywordPlanner.pdb
+E:\Invero\Freelancer\GoogleKeywordPlanner\GoogleKeywordPlanner\bin\Release\nunit.framework.dll
+E:\Invero\Freelancer\GoogleKeywordPlanner\GoogleKeywordPlanner\obj\x86\Release\GoogleKeywordPlanner.exe
+E:\Invero\Freelancer\GoogleKeywordPlanner\GoogleKeywordPlanner\obj\x86\Release\GoogleKeywordPlanner.pdb
